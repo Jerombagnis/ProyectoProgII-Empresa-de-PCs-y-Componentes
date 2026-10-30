@@ -1,0 +1,27 @@
+placa madre;102;ASUS Prime B450M;115000.0;Placa base clásica, confiable y muy utilizada en la plataforma AM4.;4;202,203
+placa madre;103;MSI MAG B550 Tomahawk;198000.0;Placa AM4 con disipación robusta pensada para configuraciones exigentes.;4;202,203
+placa madre;104;Gigabyte H510M;88000.0;Placa base micro-ATX optimizada para presupuestos ajustados.;2;201,204
+placa madre;105;ASUS ROG Strix Z790;420000.0;Motherboard premium con amplias opciones de conectividad y overclocking.;4;201,204,205
+procesador;202;AMD Ryzen 5 5600G;165000.0;Procesador versátil con potentes gráficos integrados Radeon Vega.;3.9;16
+procesador;203;AMD Ryzen 7 5700X;240000.0;Chip de alto rendimiento excelente para productividad y streaming.;3.4;32
+procesador;204;Intel Core i5 12400F;185000.0;El procesador más equilibrado en calidad-precio para gaming intermedio.;2.5;18
+procesador;205;Intel Core i7 13700K;460000.0;Procesador entusiasta de alta gama para edición de video y renders pesados.;3.4;30
+memoria ram;302;Corsair Vengeance LPX;68000.0;Memoria de perfil bajo optimizada para evitar choques con disipadores de CPU.;ddr4;3600;16
+memoria ram;301;Kingston Fury Beast;35000.0;Módulo con disipador térmico pasivo de aluminio de alta fiabilidad.;ddr4;32000;8
+memoria ram;303;Crucial Basics;31000.0;Módulo estándar sin componentes estéticos, ideal para workstations básicas.;ddr4;2666;8
+memoria ram;304;Kingston Fury Renegade;95000.0;Memoria de última generación que ofrece tasas de transferencia ultra veloces.;ddr4;6000;16
+tarjeta de red;401;TP-Link TG-3468;15000.0;Adaptador de red PCIe cableado para una conexión a internet estable.;1.0;00:1A:2B:3C:4D:5E
+tarjeta de red;402;ASUS PCE-AX58BT;75000.0;Tarjeta de red inalámbrica Wi-Fi 6 con base de antena externa extraíble.;2.4;8C:16:45:9D:E4:7A
+tarjeta de red;403;Intel AX200;35000.0;Tarjeta interna compacta formato M.2 para notebooks o mothers compatibles.;2.4;8C:16:45:9D:E4:7A
+tarjeta de red;404;Realtek RTL8111H;12000.0;Interfaz de red ethernet genérica para repuesto en ranura estándar.;2.4;70:85:C2:A1:B2:C3
+tarjeta de red;405;D-Link DGE-528T;18000.0;Tarjeta Gigabit adaptada para servidores pequeños o redes de cobre domésticas.;1.0;00:1E:58:FE:DC:BA
+disco duro;501;Kingston A400;42000.0;Unidad sólida interna SATA III perfecta para agilizar el inicio del sistema.;0;480;ssd
+disco duro;502;WD Blue 1TB;58000.0;Disco rígido tradicional ideal para almacenamiento masivo secundario.;7200;1000;ssd
+disco duro;503;Seagate BarraCuda;85000.0;Unidad mecánica de gran tamaño pensada para resguardos de datos y backups.;5400;2000;hhd
+disco duro;504;Samsung 980 Pro;125000.0;Disco NVMe M.2 de máxima velocidad diseñado para cargas de trabajo profesionales.;0;1000;ssd
+disco duro;505;Crucial BX500;28000.0;Almacenamiento sólido básico de bajo consumo para actualizar equipos viejos.;0;240;ssd
+fuente;601;EVGA 500 W1;65000.0;Fuente de alimentación con certificación básica para armados estándar.;500
+fuente;602;Corsair RM750x;175000.0;Fuente de alta eficiencia completamente modular con cables planos negros.;750
+fuente;603;Thermaltake Smart;82000.0;Componente de energía eficiente y balanceado para placas de video intermedias.;600
+fuente;604;Seasonic Focus;215000.0;Fuente premium con protecciones eléctricas avanzadas contra cortocircuitos.;850
+fuente;605;Sentey MBP;55000.0;Fuente genérica reforzada apta para computadoras de oficina u hogar.;650

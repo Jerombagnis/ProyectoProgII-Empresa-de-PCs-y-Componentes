@@ -1,0 +1,11 @@
+cliente;2255;Mateo;Diaz;43999333;29/11/2001;San Martín 105;mateodiaz@email.com;20-43999333-4;Argentina
+cliente;1104;Sofia;Fernandez;42888222;14/08/2000;Av. del Viento Chorrillero 2300;sofia.f@email.com;27-42888222-8;Argentina
+cliente;7811;Rosa;Gomez;38987654;22/10/1995;Las Verbenas 120;rosa.gomez@email.com;27-38987654-5;Argentina
+cliente;4520;Juan;Perez;40123456;15/05/1997;Av. Illia 450;juan.perez@email.com;20-40123456-3;Argentina
+cliente;3329;Lucas;Rodriguez;41555111;03/02/1999;Pringles 840;lucas.rod@email.com;20-41555111-2;Argentina
+administrativo;101;Carlos;Lopez;35.123.456;12/04/1988;Av. Illia 120;5;5001;Liquidación de haberes;Recursos Humanos
+administrativo;102;Ana;Martinez;39.123.456;25/08/1992;Pringles 430;3;5002;Facturación y cobranzas;Contabilidad
+operario;201;Marcos;Acosta;40.123.456;05/11/1995;San Martín 890;4;6001;Ensamblaje
+operario;202;Elena;Peña;30.123.456;30/07/1980;Las Verbenas 340;6;6002;Control de Calidad
+gerencial;301;Roberto;Silva;38.123.456;19/02/1991;Av. del Fundador 500;6;7001;Gerente de Operaciones
+gerencial;302;Silvia;Ortega;33.123.456;14/01/1985;Junín 1100;8;7002;Directora de Tecnología y TI
